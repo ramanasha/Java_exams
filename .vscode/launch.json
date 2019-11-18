@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ramanates",
+            "request": "launch",
+            "mainClass": "ramanates"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - first",
+            "request": "launch",
+            "mainClass": "first"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - example",
+            "request": "launch",
+            "mainClass": "example"
+        }
+    ]
+}
